@@ -5,7 +5,7 @@ import (
 	"os"
 	"path/filepath"
 
-	pb "github.com/takahashi-ke/go_grpc_downloader/proto"
+	pb "github.com/tacahac/go-grpc-downloader/proto"
 )
 
 type fileService struct{}
